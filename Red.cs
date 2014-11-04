@@ -6,6 +6,10 @@ namespace Application
 	{
 		public Red ()
 		{
+			public static void Main(string[] args){
+			
+				Console.WriteLine("Hello!");
+			}
 		}
 	}
 }
