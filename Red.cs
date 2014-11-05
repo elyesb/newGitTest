@@ -10,6 +10,7 @@ namespace Application
 			
 				Console.WriteLine("Hello All!");
 				Console.WriteLine("This is application c#");
+				Console.WriteLine("this line add by Ubuntu");
 			}
 		}
 	}
